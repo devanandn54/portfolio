@@ -6,7 +6,7 @@ export default function Contact() {
     <section id="contact" className="py-20 bg-gradient-to-b from-[#1F1544] to-[#2B2579]">
       <div className="container mx-auto px-6">
         <h2 className="font-poppins text-5xl font-bold mb-16 text-center text-[#C278F8]">
-          Let's Connect
+        Let&apos;s Connect
         </h2>
         
         <div className="grid place-items-center">

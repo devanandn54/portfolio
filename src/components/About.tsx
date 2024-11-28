@@ -10,11 +10,11 @@ export default function About() {
           <CardContent className="p-8">
             <div className="space-y-6">
               <p className="text-white/90 text-lg leading-relaxed">
-                I'm a passionate Full Stack Developer currently pursuing my Master's in Information Technology at the University of North Carolina at Charlotte. With a keen eye for detail and a love for solving complex problems, I strive to create efficient and user-friendly web solutions that make a difference.
+                I&apos;m a passionate Full Stack Developer currently pursuing my Master&apos;s in Information Technology at the University of North Carolina at Charlotte. With a keen eye for detail and a love for solving complex problems, I strive to create efficient and user-friendly web solutions that make a difference.
               </p>
               
               <p className="text-white/90 text-lg leading-relaxed">
-                Throughout my journey in tech, I've built a strong foundation in both front-end technologies like React and Next.js, and back-end solutions using Node.js and ASP.NET. I'm constantly expanding my expertise and am currently focusing on cloud technologies, including Docker, Kubernetes, and modern DevOps practices.
+                Throughout my journey in tech, I&apos;ve built a strong foundation in both front-end technologies like React and Next.js, and back-end solutions using Node.js and ASP.NET. I&apos;m constantly expanding my expertise and am currently focusing on cloud technologies, including Docker, Kubernetes, and modern DevOps practices.
               </p>
 
               <div className="bg-[#2B2579]/30 rounded-xl p-6 mt-8">
